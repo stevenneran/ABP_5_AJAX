@@ -1,0 +1,18 @@
+Resep { 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet; 
+    width: 100%; 
+} 
+judul { 
+    color: green; 
+    font-size : 40px; 
+    background-color : powderblue; 
+} 
+
+langkah, Cara_membuat { 
+    display : block; 
+} 
+title { 
+    font-size : 25px; 
+    font-weight : bold; 
+} 
